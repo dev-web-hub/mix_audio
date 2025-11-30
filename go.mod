@@ -1,3 +1,3 @@
-module github.com/max/mix_audio
+module github.com/dev-web-hub/mix_audio
 
 go 1.22
